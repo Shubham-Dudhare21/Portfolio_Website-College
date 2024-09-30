@@ -1,0 +1,11 @@
+Model Information:
+* title:	BTMN
+* source:	https://sketchfab.com/3d-models/btmn-6716b13c2ad44946883f9c3a75878d02
+* author:	Typhen (https://sketchfab.com/typhen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BTMN" (https://sketchfab.com/3d-models/btmn-6716b13c2ad44946883f9c3a75878d02) by Typhen (https://sketchfab.com/typhen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
